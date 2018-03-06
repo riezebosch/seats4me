@@ -27,3 +27,8 @@
     display: block;
     content: "";
 }
+
+
+.reveal #export ~ pre {
+    font-size: 0.35em;
+}
