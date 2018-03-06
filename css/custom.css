@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Gloria+Hallelujah);
 
-.reveal section p {
+.reveal section p.post-it {
     background:#fefabc; 
     padding:0.5em; 
     font-family: 'Gloria Hallelujah', cursive; 
