@@ -9,8 +9,7 @@
     width:15em; 
     margin-left: auto;
     margin-right: auto;
-    /* margin-top: 2em; */
-
+    text-align: left;
     -moz-transform: rotate(7deg);
     -webkit-transform: rotate(7deg);
     -o-transform: rotate(7deg);
